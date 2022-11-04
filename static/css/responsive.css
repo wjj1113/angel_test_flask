@@ -1,0 +1,5 @@
+/* 반응형 소스  -*/
+@media only screen and (max-width: 768px) {
+	#main_pc {display:none;}
+	#main_mobile {display:block;}
+}
